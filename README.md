@@ -21,7 +21,7 @@ https://github.com/justinpinkney/awesome-pretrained-stylegan2
 @article{wang2024seeing,
   title={Seeing is not believing: An identity hider for human vision privacy protection},
   author={Wang, Tao and Zhang, Yushu and Yang, Zixuan and Xiao, Xiangli and Zhang, Hua and Hua, Zhongyun},
-  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
+  journal={IEEE Trans. Biometrics, Behav., Identity Sci.},
   year={2024},
   doi={10.1109/TBIOM.2024.3449849}
 }
