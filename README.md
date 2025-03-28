@@ -1,5 +1,5 @@
 This repo is the official implementation of 
-“Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection”  (2024 TBIOM)
+“Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection”  (2025 TBIOM)
 Tao Wang, Yushu Zhang*, Zixuan Yang, Xiangli Xiao, Hua Zhang, Zhongyun Hua
 
 预训练模型：
@@ -20,12 +20,13 @@ https://github.com/justinpinkney/awesome-pretrained-stylegan2
 ```
 @ARTICLE{10646362,
   author={Wang, Tao and Zhang, Yushu and Yang, Zixuan and Xiao, Xiangli and Zhang, Hua and Hua, Zhongyun},
-  journal={IEEE Trans. Biometrics Behav. Identity Sci.}, 
-  title={Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-1},
+  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science}, 
+  title={Seeing is Not Believing: An Identity Hider for Human Vision Privacy Protection}, 
+  year={2025},
+  volume={7},
+  number={2},
+  pages={170-181},
+  keywords={Face recognition;Visualization;Protection;Privacy;Security;Machine vision;Generative adversarial networks;Face privacy;hider;human vision;identifiability;AI-generated content},
   doi={10.1109/TBIOM.2024.3449849}}
 
 ```
