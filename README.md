@@ -2,8 +2,13 @@ This repo is the official implementation of
 “Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection”  (2025 TBIOM)
 Tao Wang, Yushu Zhang*, Zixuan Yang, Xiangli Xiao, Hua Zhang, Zhongyun Hua
 
-预训练模型：百度网盘
+## Pretrained models and protected examples of CelebHQ：
+Google Drive: https://drive.google.com/drive/folders/1GYrTTL-pid1fxE4HV-dyxUfhovJN6aU-?usp=sharing
+
+Baidu Netdisk:
 链接: https://pan.baidu.com/s/1lrSQTJPm2uOBwBSeq8Hp3A?pwd=cncs 提取码: cncs 
+
+
 
 Data preprocessing is consistent with https://github.com/richarduuz/Research_Project/tree/master/ModelC/face_modules
 
