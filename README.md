@@ -2,9 +2,8 @@ This repo is the official implementation of
 “Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection”  (2025 TBIOM)
 Tao Wang, Yushu Zhang*, Zixuan Yang, Xiangli Xiao, Hua Zhang, Zhongyun Hua
 
-预训练模型：
-链接：https://pan.baidu.com/s/1I0NHFjM21c1h4YMaMZi--A?pwd=uxgi 
-提取码：uxgi
+预训练模型：百度网盘
+链接: https://pan.baidu.com/s/1lrSQTJPm2uOBwBSeq8Hp3A?pwd=cncs 提取码: cncs 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 ![image](Teaser_Image.png)
 
