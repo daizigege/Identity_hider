@@ -3,7 +3,9 @@ This repo is the official implementation of
 Tao Wang, Yushu Zhang*, Zixuan Yang, Xiangli Xiao, Hua Zhang, Zhongyun Hua
 
 预训练模型：百度网盘
-链接: https://pan.baidu.com/s/1lrSQTJPm2uOBwBSeq8Hp3A?pwd=cncs 提取码: cncs 复制这段内容后打开百度网盘手机App，操作更方便哦
+链接: https://pan.baidu.com/s/1lrSQTJPm2uOBwBSeq8Hp3A?pwd=cncs 提取码: cncs 
+
+Data preprocessing is consistent with https://github.com/richarduuz/Research_Project/tree/master/ModelC/face_modules
 
 ![image](Teaser_Image.png)
 
